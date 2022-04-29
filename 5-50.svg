@@ -1,0 +1,1705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="642.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-470.000000 -192.948715 642.000000 388.948730" height="388.94873"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="0.40851066"
+              d="M -28.556969,-34.429787 L -117.230698,46.908421"
+              class="id_творчество id_тема" stroke-opacity="1.0"
+              stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="0.6638298"
+              d="M -301.398254,3.996366 L -206.007401,66.676666"
+              class="id_бог id_образ" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.812766"
+              d="M -301.398254,3.996366 C -287.969696,-9.432205 -287.969696,17.424938 -301.398254,3.996366"
+              class="id_бог" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="0.71489364"
+              d="M -301.398254,3.996366 L -257.735474,20.320642"
+              class="id_бог id_герой" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="0.45106384"
+              d="M 22.999441,-37.928741 L -137.139404,-59.086906"
+              class="id_проблема id_русский" stroke-opacity="1.0"
+              stroke="#26859e"/>
+        <path fill="none" stroke-width="0.71489364"
+              d="M -190.445114,-43.962326 L -140.305725,3.934975"
+              class="id_автор id_слово" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.5574468"
+              d="M -190.445114,-43.962326 L -257.735474,20.320642"
+              class="id_автор id_герой" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.174468"
+              d="M -28.556969,-34.429787 L -83.837318,-4.973465"
+              class="id_творчество id_художественный" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="0.7234043"
+              d="M -190.445114,-43.962326 L -206.007401,66.676666"
+              class="id_автор id_образ" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.68085104"
+              d="M -139.440613,97.517876 L -206.007401,66.676666"
+              class="id_мотив id_образ" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.48510638"
+              d="M -139.440613,97.517876 C -128.297760,86.375015 -128.297760,108.660736 -139.440613,97.517876"
+              class="id_мотив" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.8255319"
+              d="M 22.999441,-37.928741 L -28.556969,-34.429787"
+              class="id_проблема id_творчество" stroke-opacity="1.0"
+              stroke="#26859e"/>
+        <path fill="none" stroke-width="0.8255319"
+              d="M -139.440613,97.517876 L -183.435196,86.373192"
+              class="id_мотив id_сюжет" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.53617024"
+              d="M -272.977020,-11.340435 L -140.305725,3.934975"
+              class="id_душа id_слово" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.2510638"
+              d="M -257.735474,20.320642 L -140.305725,3.934975"
+              class="id_герой id_слово" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.2"
+              d="M -257.735474,20.320642 L -206.007401,66.676666"
+              class="id_герой id_образ" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.6042553"
+              d="M -206.007401,66.676666 L -247.712738,54.125130"
+              class="id_образ id_христос" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="0.48510638"
+              d="M -257.735474,20.320642 L -247.712738,54.125130"
+              class="id_герой id_христос" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="0.67234045"
+              d="M -257.735474,20.320642 L -204.535217,-20.891167"
+              class="id_герой id_идея" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -204.535217,-20.891167 L -219.647659,-60.834206"
+              class="id_идея id_христианский" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.45106384"
+              d="M -172.118271,-121.792793 L -206.007401,66.676666"
+              class="id_время id_образ" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.87659574"
+              d="M -257.735474,20.320642 L -272.977020,-11.340435"
+              class="id_герой id_душа" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="0.67234045"
+              d="M -257.735474,20.320642 L -183.435196,86.373192"
+              class="id_герой id_сюжет" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.4297873"
+              d="M -301.398254,3.996366 L -140.305725,3.934975"
+              class="id_бог id_слово" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.1829787"
+              d="M -68.589668,13.448195 L -140.305725,3.934975"
+              class="id_значение id_слово" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="0.7234043"
+              d="M -6.874842,-62.419945 L -137.139404,-59.086906"
+              class="id_литературный id_русский" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="0.9191489"
+              d="M -204.535217,-20.891167 L -206.007401,66.676666"
+              class="id_идея id_образ" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.63829786"
+              d="M -137.139404,-59.086906 L -28.556969,-34.429787"
+              class="id_русский id_творчество" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.2595744"
+              d="M -206.007401,66.676666 C -188.293121,48.962379 -188.293121,84.390953 -206.007401,66.676666"
+              class="id_образ" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.40851066"
+              d="M -206.007401,66.676666 L -332.426880,-2.834913"
+              class="id_образ id_человеческий" stroke-opacity="1.0"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="0.41702127"
+              d="M -204.535217,-20.891167 L -28.556969,-34.429787"
+              class="id_идея id_творчество" stroke-opacity="1.0"
+              stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="0.6638298"
+              d="M -266.257813,72.230858 L -247.712738,54.125130"
+              class="id_истина id_христос" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="0.40851066"
+              d="M -301.398254,3.996366 L -204.535217,-20.891167"
+              class="id_бог id_идея" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="0.8851064"
+              d="M -301.398254,3.996366 L -272.977020,-11.340435"
+              class="id_бог id_душа" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="0.7659575"
+              d="M -255.625839,-32.438549 C -243.625839,-44.438549 -243.625839,-20.438549 -255.625839,-32.438549"
+              class="id_вера" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="0.40851066"
+              d="M -190.445114,-43.962326 L -202.396942,14.426082"
+              class="id_автор id_мысль" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="0.43404257"
+              d="M -301.398254,3.996366 L -202.396942,14.426082"
+              class="id_бог id_мысль" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0723405"
+              d="M -301.398254,3.996366 L -247.712738,54.125130"
+              class="id_бог id_христос" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0468085"
+              d="M -301.398254,3.996366 L -255.625839,-32.438549"
+              class="id_бог id_вера" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="0.43404257"
+              d="M -204.535217,-20.891167 L -247.712738,54.125130"
+              class="id_идея id_христос" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="0.87659574"
+              d="M -272.977020,-11.340435 L -332.426880,-2.834913"
+              class="id_душа id_человеческий" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="1.4042553"
+              d="M -247.712738,54.125130 C -233.427017,39.839417 -233.427017,68.410843 -247.712738,54.125130"
+              class="id_христос" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="0.42553192"
+              d="M -301.398254,3.996366 L -332.426880,-2.834913"
+              class="id_бог id_человеческий" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="0.61276597"
+              d="M -255.625839,-32.438549 L -247.712738,54.125130"
+              class="id_вера id_христос" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="0.43404257"
+              d="M -190.445114,-43.962326 L -204.535217,-20.891167"
+              class="id_автор id_идея" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -301.398254,3.996366 L -270.157990,91.167404"
+              class="id_бог id_молитва" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="0.41702127"
+              d="M -255.625839,-32.438549 L -206.007401,66.676666"
+              class="id_вера id_образ" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -272.977020,-11.340435 L -202.396942,14.426082"
+              class="id_душа id_мысль" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -172.118271,-121.792793 L -247.712738,54.125130"
+              class="id_время id_христос" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="0.6468085"
+              d="M -270.340668,190.223541 L -216.414337,187.177277"
+              class="id_земной id_небесный" stroke-opacity="1.0"
+              stroke="#ff5584"/>
+        <path fill="none" stroke-width="0.6042553"
+              d="M -165.685013,28.762863 L -247.712738,54.125130"
+              class="id_евангелие id_христос" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="0.5702128"
+              d="M -202.396942,14.426082 L -140.305725,3.934975"
+              class="id_мысль id_слово" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="0.9361702"
+              d="M -172.118271,-121.792793 C -157.832550,-136.078506 -157.832550,-107.507080 -172.118271,-121.792793"
+              class="id_время" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.706383"
+              d="M 22.999441,-37.928741 L -74.100388,33.192001"
+              class="id_проблема id_роман" stroke-opacity="1.0" stroke="#95679e"/>
+        <path fill="none" stroke-width="1.3872341"
+              d="M 22.999441,-37.928741 L 47.712837,-73.474113"
+              class="id_проблема id_русский_литература" stroke-opacity="1.0"
+              stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.0212766"
+              d="M -24.718782,79.832993 L -74.100388,33.192001"
+              class="id_преступление id_роман" stroke-opacity="1.0"
+              stroke="#6fa3c9"/>
+        <path fill="none" stroke-width="0.97021276"
+              d="M -11.443905,63.856094 L -74.100388,33.192001"
+              class="id_наказание id_роман" stroke-opacity="1.0"
+              stroke="#6fa3c9"/>
+        <path fill="none" stroke-width="2.1787233"
+              d="M -11.443905,63.856094 L -24.718782,79.832993"
+              class="id_наказание id_преступление" stroke-opacity="1.0"
+              stroke="#00bd94"/>
+        <path fill="none" stroke-width="0.49361703"
+              d="M -206.007401,66.676666 L -117.230698,46.908421"
+              class="id_образ id_тема" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.49361703"
+              d="M -272.977020,-11.340435 L -206.007401,66.676666"
+              class="id_душа id_образ" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="0.48510638"
+              d="M -272.977020,-11.340435 L -344.371460,91.256721"
+              class="id_душа id_смерть" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="0.5531915"
+              d="M -344.371460,91.256721 L -247.712738,54.125130"
+              class="id_смерть id_христос" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.9234042"
+              d="M -140.305725,3.934975 C -123.734299,-12.636454 -123.734299,20.506403 -140.305725,3.934975"
+              class="id_слово" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="0.7404255"
+              d="M -344.371460,91.256721 C -332.942902,79.828148 -332.942902,102.685295 -344.371460,91.256721"
+              class="id_смерть" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="0.45106384"
+              d="M -206.007401,66.676666 L -83.837318,-4.973465"
+              class="id_образ id_художественный" stroke-opacity="1.0"
+              stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="0.68085104"
+              d="M -272.977020,-11.340435 C -260.405579,-23.911863 -260.405579,1.230993 -272.977020,-11.340435"
+              class="id_душа" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="0.43404257"
+              d="M -91.605156,-118.415413 C -81.033730,-128.986847 -81.033730,-107.843987 -91.605156,-118.415413"
+              class="id_искусство" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="0.41702127"
+              d="M -204.535217,-20.891167 L -202.396942,14.426082"
+              class="id_идея id_мысль" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="0.65531915"
+              d="M -206.007401,66.676666 L -190.944763,-83.523926"
+              class="id_образ id_текст" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.40851066"
+              d="M -270.157990,91.167404 L -140.305725,3.934975"
+              class="id_молитва id_слово" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="0.57872343"
+              d="M -140.305725,3.934975 L -163.249115,79.399109"
+              class="id_слово id_смысл" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -362.987762,-14.948183 L -332.426880,-2.834913"
+              class="id_божественный id_человеческий" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="0.54468083"
+              d="M -140.305725,3.934975 L -28.556969,-34.429787"
+              class="id_слово id_творчество" stroke-opacity="1.0"
+              stroke="#39c27f"/>
+        <path fill="none" stroke-width="0.5702128"
+              d="M -206.007401,66.676666 L -206.705383,91.397369"
+              class="id_образ id_символ" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.8680851"
+              d="M -204.535217,-20.891167 C -190.820938,-34.605453 -190.820938,-7.176881 -204.535217,-20.891167"
+              class="id_идея" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.94468087"
+              d="M -140.305725,3.934975 L -51.857468,-98.747742"
+              class="id_слово id_язык" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="0.49361703"
+              d="M -255.625839,-32.438549 L -140.305725,3.934975"
+              class="id_вера id_слово" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="0.63829786"
+              d="M -165.685013,28.762863 L -140.305725,3.934975"
+              class="id_евангелие id_слово" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -206.007401,66.676666 L -137.139404,-59.086906"
+              class="id_образ id_русский" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="0.42553192"
+              d="M -140.305725,3.934975 L -83.837318,-4.973465"
+              class="id_слово id_художественный" stroke-opacity="1.0"
+              stroke="#39c27f"/>
+        <path fill="none" stroke-width="0.40851066"
+              d="M -165.685013,28.762863 C -154.256439,17.334291 -154.256439,40.191437 -165.685013,28.762863"
+              class="id_евангелие" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="0.56170213"
+              d="M -137.139404,-59.086906 L -190.944763,-83.523926"
+              class="id_русский id_текст" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.3361702"
+              d="M -106.183304,-85.528252 L -137.139404,-59.086906"
+              class="id_литература id_русский" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="0.5531915"
+              d="M -106.183304,-85.528252 L -140.305725,3.934975"
+              class="id_литература id_слово" stroke-opacity="1.0"
+              stroke="#39c27f"/>
+        <path fill="none" stroke-width="1.7021277"
+              d="M -74.100388,33.192001 C -54.100388,13.192001 -54.100388,53.192001 -74.100388,33.192001"
+              class="id_роман" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.42553192"
+              d="M 22.999441,-37.928741 L -83.837318,-4.973465"
+              class="id_проблема id_художественный" stroke-opacity="1.0"
+              stroke="#26859e"/>
+        <path fill="none" stroke-width="0.54468083"
+              d="M -51.857468,-98.747742 C -40.428894,-110.176315 -40.428894,-87.319168 -51.857468,-98.747742"
+              class="id_язык" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="0.98723406"
+              d="M -106.183304,-85.528252 L -83.837318,-4.973465"
+              class="id_литература id_художественный" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="0.51914895"
+              d="M -190.445114,-43.962326 L -172.118271,-121.792793"
+              class="id_автор id_время" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.5106383"
+              d="M -266.257813,72.230858 C -255.686386,61.659431 -255.686386,82.802284 -266.257813,72.230858"
+              class="id_истина" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="0.6638298"
+              d="M -204.535217,-20.891167 L -137.139404,-59.086906"
+              class="id_идея id_русский" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="0.68085104"
+              d="M -172.118271,-121.792793 L -137.139404,-59.086906"
+              class="id_время id_русский" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="0.5531915"
+              d="M -172.118271,-121.792793 L -204.535217,-20.891167"
+              class="id_время id_идея" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.587234"
+              d="M -137.139404,-59.086906 L -83.837318,-4.973465"
+              class="id_русский id_художественный" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="0.8680851"
+              d="M -206.007401,66.676666 L -140.305725,3.934975"
+              class="id_образ id_слово" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="0.43404257"
+              d="M -206.007401,66.676666 L -136.413757,-29.988354"
+              class="id_образ id_повесть" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.61276597"
+              d="M -206.007401,66.676666 L -219.647659,-60.834206"
+              class="id_образ id_христианский" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.43404257"
+              d="M -257.735474,20.320642 L -317.842896,37.563671"
+              class="id_герой id_положительный" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.5659574"
+              d="M -206.007401,66.676666 L -74.100388,33.192001"
+              class="id_образ id_роман" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.67234045"
+              d="M -136.413757,-29.988354 L -300.877502,64.313644"
+              class="id_повесть id_рассказ" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 68.233253,-57.941898 L 22.999441,-37.928741"
+              class="id_исторический_поэтика id_проблема" stroke-opacity="1.0"
+              stroke="#4c463e"/>
+        <path fill="none" stroke-width="2.680851"
+              d="M -137.139404,-59.086906 L -51.857468,-98.747742"
+              class="id_русский id_язык" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.480851"
+              d="M -137.139404,-59.086906 L -140.305725,3.934975"
+              class="id_русский id_слово" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="0.8680851"
+              d="M -257.735474,20.320642 L -300.877502,64.313644"
+              class="id_герой id_рассказ" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.63829786"
+              d="M -137.139404,-59.086906 L -192.346878,-112.832230"
+              class="id_русский id_традиция" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="0.8"
+              d="M -257.735474,20.320642 L -131.365814,34.400997"
+              class="id_герой id_духовный" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.51914895"
+              d="M -255.625839,-32.438549 L -257.735474,20.320642"
+              class="id_вера id_герой" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="0.4"
+              d="M -131.365814,34.400997 L -163.249115,79.399109"
+              class="id_духовный id_смысл" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.5531915"
+              d="M -206.007401,66.676666 L -163.249115,79.399109"
+              class="id_образ id_смысл" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.40851066"
+              d="M -106.183304,-85.528252 L -206.007401,66.676666"
+              class="id_литература id_образ" stroke-opacity="1.0"
+              stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="0.42553192"
+              d="M -257.735474,20.320642 L -202.396942,14.426082"
+              class="id_герой id_мысль" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="0.79148936"
+              d="M -257.735474,20.320642 C -241.164047,3.749214 -241.164047,36.892071 -257.735474,20.320642"
+              class="id_герой" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.8595745"
+              d="M -257.735474,20.320642 L -136.413757,-29.988354"
+              class="id_герой id_повесть" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.6042553"
+              d="M -255.625839,-32.438549 L -137.139404,-59.086906"
+              class="id_вера id_русский" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="0.50212765"
+              d="M -127.235794,-113.906326 L -137.139404,-59.086906"
+              class="id_православный id_русский" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="0.50212765"
+              d="M -131.365814,34.400997 L -137.139404,-59.086906"
+              class="id_духовный id_русский" stroke-opacity="1.0"
+              stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="0.41702127"
+              d="M -206.007401,66.676666 L -192.346878,-112.832230"
+              class="id_образ id_традиция" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="0.48510638"
+              d="M -131.365814,34.400997 L -206.007401,66.676666"
+              class="id_духовный id_образ" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.49361703"
+              d="M -257.735474,20.320642 L -137.139404,-59.086906"
+              class="id_герой id_русский" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="0.51914895"
+              d="M -257.735474,20.320642 L -273.797821,-59.781563"
+              class="id_герой id_читатель" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.47659576"
+              d="M -300.877502,64.313644 C -289.734650,53.170788 -289.734650,75.456505 -300.877502,64.313644"
+              class="id_рассказ" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.45106384"
+              d="M -117.230698,46.908421 C -106.087837,35.765564 -106.087837,58.051277 -117.230698,46.908421"
+              class="id_тема" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="2.587234"
+              d="M -257.735474,20.320642 L -74.100388,33.192001"
+              class="id_герой id_роман" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.4425532"
+              d="M -206.007401,66.676666 L -300.877502,64.313644"
+              class="id_образ id_рассказ" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.42553192"
+              d="M -257.735474,20.320642 L -163.249115,79.399109"
+              class="id_герой id_смысл" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.6468085"
+              d="M -172.118271,-121.792793 L -257.735474,20.320642"
+              class="id_время id_герой" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.4680851"
+              d="M -106.183304,-85.528252 L -28.556969,-34.429787"
+              class="id_литература id_творчество" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="0.7234043"
+              d="M -74.100388,33.192001 L -83.837318,-4.973465"
+              class="id_роман id_художественный" stroke-opacity="1.0"
+              stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="0.54468083"
+              d="M -137.139404,-59.086906 L 47.712837,-73.474113"
+              class="id_русский id_русский_литература" stroke-opacity="1.0"
+              stroke="#26859e"/>
+        <path fill="none" stroke-width="0.59574467"
+              d="M 47.712837,-73.474113 L 83.326836,-151.144608"
+              class="id_русский_литература id_христианство" stroke-opacity="1.0"
+              stroke="#4c463e"/>
+        <path fill="none" stroke-width="0.53617024"
+              d="M 18.931225,-92.919838 L 22.999441,-37.928741"
+              class="id_жанр id_проблема" stroke-opacity="1.0" stroke="#26859e"/>
+        <path fill="none" stroke-width="0.50212765"
+              d="M 18.931225,-92.919838 C 31.502653,-105.491264 31.502653,-80.348412 18.931225,-92.919838"
+              class="id_жанр" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="0.68085104"
+              d="M -106.183304,-85.528252 L 4.281239,-117.975525"
+              class="id_литература id_поэтика" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.1404256"
+              d="M -137.139404,-59.086906 C -120.282257,-75.944046 -120.282257,-42.229763 -137.139404,-59.086906"
+              class="id_русский" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="0.5702128"
+              d="M -206.007401,66.676666 L -183.435196,86.373192"
+              class="id_образ id_сюжет" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.6042553"
+              d="M 18.931225,-92.919838 L -83.837318,-4.973465"
+              class="id_жанр id_художественный" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="0.51914895"
+              d="M -136.413757,-29.988354 L -137.139404,-59.086906"
+              class="id_повесть id_русский" stroke-opacity="1.0"
+              stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="0.5106383"
+              d="M -91.605156,-118.415413 L -106.183304,-85.528252"
+              class="id_искусство id_литература" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="0.4680851"
+              d="M -74.100388,33.192001 L -28.556969,-34.429787"
+              class="id_роман id_творчество" stroke-opacity="1.0"
+              stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="0.85106385"
+              d="M 18.931225,-92.919838 L -74.100388,33.192001"
+              class="id_жанр id_роман" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="0.42553192"
+              d="M -6.874842,-62.419945 L -51.857468,-98.747742"
+              class="id_литературный id_язык" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="0.6042553"
+              d="M -74.100388,33.192001 L -124.128830,-76.592232"
+              class="id_роман id_форма" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.65531915"
+              d="M -106.183304,-85.528252 L -51.857468,-98.747742"
+              class="id_литература id_язык" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="0.5531915"
+              d="M -238.878235,-158.793488 L -190.944763,-83.523926"
+              class="id_авторский id_текст" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.47659576"
+              d="M -190.944763,-83.523926 L -83.837318,-4.973465"
+              class="id_текст id_художественный" stroke-opacity="1.0"
+              stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="0.6212766"
+              d="M -190.445114,-43.962326 L -28.556969,-34.429787"
+              class="id_автор id_творчество" stroke-opacity="1.0"
+              stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="0.5531915"
+              d="M 18.931225,-92.919838 L 47.712837,-73.474113"
+              class="id_жанр id_русский_литература" stroke-opacity="1.0"
+              stroke="#26859e"/>
+        <path fill="none" stroke-width="0.43404257"
+              d="M 47.712837,-73.474113 L -140.305725,3.934975"
+              class="id_русский_литература id_слово" stroke-opacity="1.0"
+              stroke="#5f831f"/>
+        <path fill="none" stroke-width="0.8255319"
+              d="M 18.931225,-92.919838 L -106.183304,-85.528252"
+              class="id_жанр id_литература" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="0.9276596"
+              d="M -190.944763,-83.523926 C -176.373337,-98.095352 -176.373337,-68.952499 -190.944763,-83.523926"
+              class="id_текст" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.51914895"
+              d="M -106.183304,-85.528252 L -190.944763,-83.523926"
+              class="id_литература id_текст" stroke-opacity="1.0"
+              stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="0.5106383"
+              d="M -106.183304,-85.528252 L -6.874842,-62.419945"
+              class="id_литература id_литературный" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="0.47659576"
+              d="M 18.931225,-92.919838 L -6.874842,-62.419945"
+              class="id_жанр id_литературный" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0382979"
+              d="M -74.100388,33.192001 L -137.139404,-59.086906"
+              class="id_роман id_русский" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="0.42553192"
+              d="M -202.396942,14.426082 L -206.007401,66.676666"
+              class="id_мысль id_образ" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.0723405"
+              d="M -190.445114,-43.962326 L -190.944763,-83.523926"
+              class="id_автор id_текст" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.3446809"
+              d="M -172.118271,-121.792793 L -74.100388,33.192001"
+              class="id_время id_роман" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.40851066"
+              d="M -172.118271,-121.792793 L -124.128830,-76.592232"
+              class="id_время id_форма" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.40851066"
+              d="M -172.118271,-121.792793 L -200.229431,-140.213882"
+              class="id_время id_хронотоп" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0468085"
+              d="M -140.305725,3.934975 L -190.944763,-83.523926"
+              class="id_слово id_текст" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="0.45957446"
+              d="M -257.735474,20.320642 L -344.371460,91.256721"
+              class="id_герой id_смерть" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="0.5531915"
+              d="M -106.183304,-85.528252 L 47.712837,-73.474113"
+              class="id_литература id_русский_литература" stroke-opacity="1.0"
+              stroke="#26859e"/>
+        <path fill="none" stroke-width="1.8382978"
+              d="M -57.675087,58.612576 L -74.100388,33.192001"
+              class="id_бес id_роман" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.89361703"
+              d="M -190.445114,-43.962326 L -273.797821,-59.781563"
+              class="id_автор id_читатель" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.4425532"
+              d="M -190.944763,-83.523926 L -273.797821,-59.781563"
+              class="id_текст id_читатель" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.49361703"
+              d="M -257.735474,20.320642 L -190.944763,-83.523926"
+              class="id_герой id_текст" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.7659575"
+              d="M -140.305725,3.934975 L -247.712738,54.125130"
+              class="id_слово id_христос" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="0.4680851"
+              d="M -302.578247,-17.590645 L -219.647659,-60.834206"
+              class="id_идеал id_христианский" stroke-opacity="1.0"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.1489362"
+              d="M -74.100388,33.192001 L -140.305725,3.934975"
+              class="id_роман id_слово" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="0.56170213"
+              d="M -74.100388,33.192001 L -247.712738,54.125130"
+              class="id_роман id_христос" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="0.83404255"
+              d="M -139.440613,97.517876 L -74.100388,33.192001"
+              class="id_мотив id_роман" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.5531915"
+              d="M -131.365814,34.400997 L -74.100388,33.192001"
+              class="id_духовный id_роман" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.7319149"
+              d="M -74.100388,33.192001 L -117.230698,46.908421"
+              class="id_роман id_тема" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.5744681"
+              d="M -190.445114,-43.962326 L -74.100388,33.192001"
+              class="id_автор id_роман" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.4425532"
+              d="M -14.325747,36.693962 L -74.100388,33.192001"
+              class="id_главный_герой id_роман" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.0382979"
+              d="M -204.535217,-20.891167 L -74.100388,33.192001"
+              class="id_идея id_роман" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.43404257"
+              d="M -165.685013,28.762863 L -74.100388,33.192001"
+              class="id_евангелие id_роман" stroke-opacity="1.0"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="0.5106383"
+              d="M -74.100388,33.192001 L -219.647659,-60.834206"
+              class="id_роман id_христианский" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.59574467"
+              d="M -106.183304,-85.528252 C -91.611877,-100.099678 -91.611877,-70.956825 -106.183304,-85.528252"
+              class="id_литература" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="0.59574467"
+              d="M -172.118271,-121.792793 L -106.183304,-85.528252"
+              class="id_время id_литература" stroke-opacity="1.0"
+              stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="0.69787234"
+              d="M -172.118271,-121.792793 L -140.305725,3.934975"
+              class="id_время id_слово" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="1.2765957"
+              d="M -355.549652,-47.368912 L -383.562256,-67.251862"
+              class="id_добро id_зло" stroke-opacity="1.0" stroke="#d3b3b0"/>
+        <path fill="none" stroke-width="0.4425532"
+              d="M -136.413757,-29.988354 L -190.944763,-83.523926"
+              class="id_повесть id_текст" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.40851066"
+              d="M -172.118271,-121.792793 L -136.413757,-29.988354"
+              class="id_время id_повесть" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.69787234"
+              d="M -190.445114,-43.962326 L -137.139404,-59.086906"
+              class="id_автор id_русский" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.1489362"
+              d="M -172.118271,-121.792793 L -149.408295,-147.275360"
+              class="id_время id_пространство" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.67234045"
+              d="M -199.414322,118.423775 L -344.371460,91.256721"
+              class="id_воскресение id_смерть" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="0.5531915"
+              d="M -68.589668,13.448195 L -74.100388,33.192001"
+              class="id_значение id_роман" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="0.71489364"
+              d="M -74.100388,33.192001 L -183.435196,86.373192"
+              class="id_роман id_сюжет" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.50212765"
+              d="M -6.874842,-62.419945 L -74.100388,33.192001"
+              class="id_литературный id_роман" stroke-opacity="1.0"
+              stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.2680851"
+              d="M -74.100388,33.192001 L -190.944763,-83.523926"
+              class="id_роман id_текст" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.45957446"
+              d="M -202.396942,14.426082 L -74.100388,33.192001"
+              class="id_мысль id_роман" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="0.4680851"
+              d="M -74.100388,33.192001 L -65.472641,71.885963"
+              class="id_роман id_финал" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.40851066"
+              d="M -74.100388,33.192001 L -163.249115,79.399109"
+              class="id_роман id_смысл" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.40851066"
+              d="M -74.100388,33.192001 L -36.832771,21.127563"
+              class="id_роман id_эпизод" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.47659576"
+              d="M -106.183304,-85.528252 L -74.100388,33.192001"
+              class="id_литература id_роман" stroke-opacity="1.0"
+              stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="0.56170213"
+              d="M -99.922470,-134.019592 L -137.139404,-59.086906"
+              class="id_классический_литература id_русский" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="0.5276596"
+              d="M -257.735474,20.320642 L -322.893463,25.252405"
+              class="id_герой id_характер" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.47659576"
+              d="M -74.100388,33.192001 L -80.538361,55.143627"
+              class="id_роман id_сцена" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.50212765"
+              d="M 52.823341,-134.241226 L 47.712837,-73.474113"
+              class="id_категория_соборность id_русский_литература"
+              stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="0.8170213"
+              d="M 68.233253,-57.941898 L 47.712837,-73.474113"
+              class="id_исторический_поэтика id_русский_литература"
+              stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="0.59574467"
+              d="M 120.763031,-85.443817 L 68.233253,-57.941898"
+              class="id_евангельский_текст id_исторический_поэтика"
+              stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="1.1829787"
+              d="M 120.763031,-85.443817 L 47.712837,-73.474113"
+              class="id_евангельский_текст id_русский_литература"
+              stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="0.7234043"
+              d="M 120.763031,-85.443817 L 123.957199,-107.292557"
+              class="id_евангельский_текст id_цитата_реминисценция"
+              stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="0.7574468"
+              d="M 47.712837,-73.474113 L 123.957199,-107.292557"
+              class="id_русский_литература id_цитата_реминисценция"
+              stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="0.68085104"
+              d="M 96.261246,-122.637383 L 47.712837,-73.474113"
+              class="id_реминисценция_мотив id_русский_литература"
+              stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="0.706383"
+              d="M 96.261246,-122.637383 L 123.957199,-107.292557"
+              class="id_реминисценция_мотив id_цитата_реминисценция"
+              stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="0.6893617"
+              d="M 131.626801,-157.004105 L 123.957199,-107.292557"
+              class="id_мотив_сюжет id_цитата_реминисценция"
+              stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="0.68085104"
+              d="M 165.575043,-139.814850 L 123.957199,-107.292557"
+              class="id_сюжет_жанр id_цитата_реминисценция" stroke-opacity="1.0"
+              stroke="#4c463e"/>
+        <path fill="none" stroke-width="0.68085104"
+              d="M 131.626801,-157.004105 L 96.261246,-122.637383"
+              class="id_мотив_сюжет id_реминисценция_мотив" stroke-opacity="1.0"
+              stroke="#4c463e"/>
+        <path fill="none" stroke-width="0.67234045"
+              d="M 96.261246,-122.637383 L 165.575043,-139.814850"
+              class="id_реминисценция_мотив id_сюжет_жанр" stroke-opacity="1.0"
+              stroke="#4c463e"/>
+        <path fill="none" stroke-width="0.6893617"
+              d="M 131.626801,-157.004105 L 165.575043,-139.814850"
+              class="id_мотив_сюжет id_сюжет_жанр" stroke-opacity="1.0"
+              stroke="#4c463e"/>
+        <path fill="none" stroke-width="0.49361703"
+              d="M 81.684059,-9.793430 L 22.999441,-37.928741"
+              class="id_аспект id_проблема" stroke-opacity="1.0"
+              stroke="#4c463e"/>
+        <path fill="none" stroke-width="0.42553192"
+              d="M 18.931225,-92.919838 L 4.281239,-117.975525"
+              class="id_жанр id_поэтика" stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="0.94468087"
+              d="M -199.414322,118.423775 L -74.100388,33.192001"
+              class="id_воскресение id_роман" stroke-opacity="1.0"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="0.6042553"
+              d="M 22.999441,-37.928741 C 35.570869,-50.500168 35.570869,-25.357313 22.999441,-37.928741"
+              class="id_проблема" stroke-opacity="1.0" stroke="#4c463e"/>
+        <path fill="none" stroke-width="0.50212765"
+              d="M -163.249115,79.399109 L -190.944763,-83.523926"
+              class="id_смысл id_текст" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.54468083"
+              d="M -165.685013,28.762863 L -190.944763,-83.523926"
+              class="id_евангелие id_текст" stroke-opacity="1.0"
+              stroke="#a9a47f"/>
+        <path fill="none" stroke-width="0.45957446"
+              d="M -190.445114,-43.962326 L -83.837318,-4.973465"
+              class="id_автор id_художественный" stroke-opacity="1.0"
+              stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="0.56170213"
+              d="M -362.987762,-14.948183 L -397.326172,-27.580000"
+              class="id_божественный id_комедия" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="0.40851066"
+              d="M -301.398254,3.996366 L -349.307281,13.198578"
+              class="id_бог id_ода" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="0.43404257"
+              d="M -204.535217,-20.891167 L -140.305725,3.934975"
+              class="id_идея id_слово" stroke-opacity="1.0" stroke="#a9a47f"/>
+        <path fill="none" stroke-width="0.41702127"
+              d="M -106.183304,-85.528252 L -219.647659,-60.834206"
+              class="id_литература id_христианский" stroke-opacity="1.0"
+              stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="1.0808511"
+              d="M -136.413757,-29.988354 L -74.100388,33.192001"
+              class="id_повесть id_роман" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.47659576"
+              d="M -18.537872,138.294998 L -47.670654,160.653244"
+              class="id_пасхальность_русский id_русский_словесность"
+              stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="0.4680851"
+              d="M -172.118271,-121.792793 L -190.944763,-83.523926"
+              class="id_время id_текст" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.587234"
+              d="M -302.578247,-17.590645 L -247.712738,54.125130"
+              class="id_идеал id_христос" stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="0.42553192"
+              d="M -137.139404,-59.086906 L -247.712738,54.125130"
+              class="id_русский id_христос" stroke-opacity="1.0"
+              stroke="#39c27f"/>
+        <path fill="none" stroke-width="0.45957446"
+              d="M -272.977020,-11.340435 L -137.139404,-59.086906"
+              class="id_душа id_русский" stroke-opacity="1.0" stroke="#39c27f"/>
+        <path fill="none" stroke-width="0.45106384"
+              d="M -136.413757,-29.988354 L -183.435196,86.373192"
+              class="id_повесть id_сюжет" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.40851066"
+              d="M -6.973251,-182.377289 C 3.598177,-192.948715 3.598177,-171.805862 -6.973251,-182.377289"
+              class="id_закон" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="0.47659576"
+              d="M -152.708099,124.823959 L -163.249115,79.399109"
+              class="id_реализм id_смысл" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="1.012766"
+              d="M 26.517776,-164.973145 L -6.973251,-182.377289"
+              class="id_благодать id_закон" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="0.5276596"
+              d="M -190.944763,-83.523926 L -211.899948,-93.757233"
+              class="id_текст id_цитата" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.43404257"
+              d="M -239.504395,-83.569519 L -219.647659,-60.834206"
+              class="id_дух id_христианский" stroke-opacity="1.0"
+              stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.5531915"
+              d="M -136.413757,-29.988354 C -123.556610,-42.845497 -123.556610,-17.131210 -136.413757,-29.988354"
+              class="id_повесть" stroke-opacity="1.0" stroke="#df89ff"/>
+        <path fill="none" stroke-width="0.53617024"
+              d="M -199.414322,118.423775 L -247.712738,54.125130"
+              class="id_воскресение id_христос" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="0.59574467"
+              d="M -464.698547,13.986038 L -412.914734,33.911942"
+              class="id_блудный_сын id_притча" stroke-opacity="1.0"
+              stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="0.45957446"
+              d="M -71.053131,-177.540375 C -60.767418,-187.826096 -60.767418,-167.254654 -71.053131,-177.540375"
+              class="id_красота" stroke-opacity="1.0" stroke="#c0c0c0"/>
+        <path fill="none" stroke-width="0.53617024"
+              d="M -353.233124,-112.925522 L -374.024017,-143.885971"
+              class="id_научный id_фантастика" stroke-opacity="1.0"
+              stroke="#ff8805"/>
+        <path fill="none" stroke-width="0.65531915"
+              d="M 18.931225,-92.919838 L -136.413757,-29.988354"
+              class="id_жанр id_повесть" stroke-opacity="1.0" stroke="#6fa6ff"/>
+        <path fill="none" stroke-width="0.4425532"
+              d="M -374.024017,-143.885971 L -412.062378,-119.604599"
+              class="id_фантастика id_фантастический" stroke-opacity="1.0"
+              stroke="#ff8805"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#00c4ff" r="6.142857" cx="-28.556969"
+                class="id_творчество" cy="-34.429787" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="5.571429" cx="-117.2307"
+                class="id_тема" cy="46.90842" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="6.714286" cx="-301.39825"
+                class="id_бог" cy="3.996366" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="8.857143" cx="-206.0074"
+                class="id_образ" cy="66.67667" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="8.285714" cx="-257.73547"
+                class="id_герой" cy="20.320642" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="6.285714" cx="22.999441"
+                class="id_проблема" cy="-37.92874" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="8.428572" cx="-137.1394"
+                class="id_русский" cy="-59.086906" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="6.571429" cx="-190.44511"
+                class="id_автор" cy="-43.962326" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="8.285714" cx="-140.30573"
+                class="id_слово" cy="3.9349747" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="6.285714" cx="-83.83732"
+                class="id_художественный" cy="-4.973465" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="5.571429" cx="-139.44061"
+                class="id_мотив" cy="97.517876" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="5.571429" cx="-183.4352"
+                class="id_сюжет" cy="86.37319" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="6.285714" cx="-272.97702"
+                class="id_душа" cy="-11.340435" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="7.142857" cx="-247.71274"
+                class="id_христос" cy="54.12513" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="6.857143" cx="-204.53522"
+                class="id_идея" cy="-20.891167" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="5.714286" cx="-219.64766"
+                class="id_христианский" cy="-60.834206" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="7.142857" cx="-172.11827"
+                class="id_время" cy="-121.79279" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="5.142857" cx="-68.58967"
+                class="id_значение" cy="13.448195" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="5.571429" cx="-6.874842"
+                class="id_литературный" cy="-62.419945" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="5.428571" cx="-332.42688"
+                class="id_человеческий" cy="-2.8349133" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="5.285714" cx="-266.2578"
+                class="id_истина" cy="72.23086" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="6.0" cx="-255.62584"
+                class="id_вера" cy="-32.43855" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="6.0" cx="-202.39694"
+                class="id_мысль" cy="14.426082" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="5.142857" cx="-270.158"
+                class="id_молитва" cy="91.167404" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="5.0" cx="-270.34067"
+                class="id_земной" cy="190.22354" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff5584" r="5.0" cx="-216.41434"
+                class="id_небесный" cy="187.17728" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="5.714286" cx="-165.68501"
+                class="id_евангелие" cy="28.762863" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="10.0" cx="-74.10039"
+                class="id_роман" cy="33.192" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="6.4285717" cx="47.712837"
+                class="id_русский_литература" cy="-73.47411" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="5.142857" cx="-24.718782"
+                class="id_преступление" cy="79.83299" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00bd94" r="5.142857" cx="-11.443905"
+                class="id_наказание" cy="63.856094" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="5.714286" cx="-344.37146"
+                class="id_смерть" cy="91.25672" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="5.285714" cx="-91.605156"
+                class="id_искусство" cy="-118.41541" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="7.285714" cx="-190.94476"
+                class="id_текст" cy="-83.523926" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="5.857143" cx="-163.24911"
+                class="id_смысл" cy="79.39911" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="5.142857" cx="-362.98776"
+                class="id_божественный" cy="-14.948183" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="5.0" cx="-206.70538"
+                class="id_символ" cy="91.39737" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="5.714286" cx="-51.857468"
+                class="id_язык" cy="-98.74774" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="7.285714" cx="-106.183304"
+                class="id_литература" cy="-85.52825" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="6.4285717" cx="-136.41376"
+                class="id_повесть" cy="-29.988354" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="5.0" cx="-317.8429"
+                class="id_положительный" cy="37.56367" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="5.571429" cx="-300.8775"
+                class="id_рассказ" cy="64.313644" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="5.285714" cx="68.23325"
+                class="id_исторический_поэтика" cy="-57.9419" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="5.142857" cx="-192.34688"
+                class="id_традиция" cy="-112.83223" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="5.571429" cx="-131.36581"
+                class="id_духовный" cy="34.400997" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="5.0" cx="-127.235794"
+                class="id_православный" cy="-113.90633" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="5.285714" cx="-273.79782"
+                class="id_читатель" cy="-59.781563" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="5.0" cx="83.326836"
+                class="id_христианство" cy="-151.1446" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="6.285714" cx="18.931225"
+                class="id_жанр" cy="-92.91984" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="5.142857" cx="4.2812386"
+                class="id_поэтика" cy="-117.975525" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="5.142857" cx="-124.12883"
+                class="id_форма" cy="-76.59223" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="5.0" cx="-238.87823"
+                class="id_авторский" cy="-158.79349" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="5.0" cx="-200.22943"
+                class="id_хронотоп" cy="-140.21388" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="5.0" cx="-57.675087"
+                class="id_бес" cy="58.612576" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="5.142857" cx="-302.57825"
+                class="id_идеал" cy="-17.590645" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="5.0" cx="-14.325747"
+                class="id_главный_герой" cy="36.693962" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="5.0" cx="-355.54965"
+                class="id_добро" cy="-47.36891" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d3b3b0" r="5.0" cx="-383.56226"
+                class="id_зло" cy="-67.25186" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="5.0" cx="-149.4083"
+                class="id_пространство" cy="-147.27536" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="5.285714" cx="-199.41432"
+                class="id_воскресение" cy="118.423775" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="5.0" cx="-65.47264"
+                class="id_финал" cy="71.88596" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="5.0" cx="-36.83277"
+                class="id_эпизод" cy="21.127563" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#00c4ff" r="5.0" cx="-99.92247"
+                class="id_классический_литература" cy="-134.01959"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="5.0" cx="-322.89346"
+                class="id_характер" cy="25.252405" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="5.0" cx="-80.53836"
+                class="id_сцена" cy="55.143627" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="5.0" cx="52.82334"
+                class="id_категория_соборность" cy="-134.24123" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="5.285714" cx="120.76303"
+                class="id_евангельский_текст" cy="-85.44382" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="5.571429" cx="123.9572"
+                class="id_цитата_реминисценция" cy="-107.29256" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="5.428571" cx="96.261246"
+                class="id_реминисценция_мотив" cy="-122.63738" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="5.285714" cx="131.6268"
+                class="id_мотив_сюжет" cy="-157.0041" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="5.285714" cx="165.57504"
+                class="id_сюжет_жанр" cy="-139.81485" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#4c463e" r="5.0" cx="81.68406"
+                class="id_аспект" cy="-9.79343" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="5.0" cx="-397.32617"
+                class="id_комедия" cy="-27.58" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#73c000" r="5.0" cx="-349.30728"
+                class="id_ода" cy="13.198578" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.0" cx="-18.537872"
+                class="id_пасхальность_русский" cy="138.295" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.0" cx="-47.670654"
+                class="id_русский_словесность" cy="160.65324" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.285714" cx="-6.9732513"
+                class="id_закон" cy="-182.37729" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="5.0" cx="-152.7081"
+                class="id_реализм" cy="124.82396" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.0" cx="26.517776"
+                class="id_благодать" cy="-164.97314" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="5.0" cx="-211.89995"
+                class="id_цитата" cy="-93.75723" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#df89ff" r="5.0" cx="-239.5044"
+                class="id_дух" cy="-83.56952" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.0" cx="-464.69855"
+                class="id_блудный_сын" cy="13.986038" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.0" cx="-412.91473"
+                class="id_притча" cy="33.91194" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0c0c0" r="5.142857" cx="-71.05313"
+                class="id_красота" cy="-177.54037" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="5.0" cx="-353.23312"
+                class="id_научный" cy="-112.92552" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="5.142857" cx="-374.02402"
+                class="id_фантастика" cy="-143.88597" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff8805" r="5.0" cx="-412.06238"
+                class="id_фантастический" cy="-119.6046" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <rect fill="#00c4ff" x="-52.01644" width="46.52832" height="6.513672"
+              y="-37.537697" opacity="0.0"/>
+        <text font-size="10" x="-28.556969" y="-32.80137" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_творчество">
+            творчество
+        </text>
+        <rect fill="#df89ff" x="-126.36693" width="17.658691" height="4.3476562"
+              y="43.73264" opacity="0.0"/>
+        <text font-size="9" x="-117.2307" y="47.995335" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_тема">
+            тема
+        </text>
+        <rect fill="#73c000" x="-308.53195" width="14.768707" height="7.632324"
+              y="-1.624036" opacity="0.0"/>
+        <text font-size="11" x="-301.39825" y="5.904447" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_бог">
+            бог
+        </text>
+        <rect fill="#df89ff" x="-222.8033" width="33.591797" height="12.069988"
+              y="60.112453" opacity="0.0"/>
+        <text font-size="14" x="-206.0074" y="69.69416" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_образ">
+            образ
+        </text>
+        <rect fill="#df89ff" x="-272.59958" width="29.730316" height="11.108398"
+              y="14.2998905" opacity="0.0"/>
+        <text font-size="13" x="-257.73547" y="23.097742" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_герой">
+            герой
+        </text>
+        <rect fill="#4c463e" x="2.4029243" width="41.21094" height="8.621418"
+              y="-42.617462" opacity="0.0"/>
+        <text font-size="10" x="22.999441" y="-35.773388" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_проблема">
+            проблема
+        </text>
+        <rect fill="#00c4ff" x="-158.06233" width="41.847977" height="11.108398"
+              y="-65.10766" opacity="0.0"/>
+        <text font-size="13" x="-137.1394" y="-56.309807" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_русский">
+            русский
+        </text>
+        <rect fill="#df89ff" x="-203.1397" width="25.374832" height="7.165039"
+              y="-47.381027" opacity="0.0"/>
+        <text font-size="11" x="-190.44511" y="-42.171066" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_автор">
+            автор
+        </text>
+        <rect fill="#73c000" x="-155.76862" width="30.925781" height="6.2799478"
+              y="-0.6522651" opacity="0.0"/>
+        <text font-size="13" x="-140.30573" y="5.5049615" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_слово">
+            слово
+        </text>
+        <rect fill="#00c4ff" x="-119.73494" width="71.251625" height="8.544922"
+              y="-9.604813" opacity="0.0"/>
+        <text font-size="10" x="-83.83732" y="-2.8372345" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_художественный">
+            художественный
+        </text>
+        <rect fill="#df89ff" x="-150.76385" width="22.67871" height="4.3476562"
+              y="94.342094" opacity="0.0"/>
+        <text font-size="9" x="-139.44061" y="98.60479" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_мотив">
+            мотив
+        </text>
+        <rect fill="#df89ff" x="-195.27187" width="24.026367" height="4.3476562"
+              y="83.19741" opacity="0.0"/>
+        <text font-size="9" x="-183.4352" y="87.460106" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_сюжет">
+            сюжет
+        </text>
+        <rect fill="#73c000" x="-283.9544" width="21.33789" height="6.513672"
+              y="-14.448345" opacity="0.0"/>
+        <text font-size="10" x="-272.97702" y="-9.712017" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_душа">
+            душа
+        </text>
+        <rect fill="#73c000" x="-265.41498" width="35.273773" height="7.165039"
+              y="50.70643" opacity="0.0"/>
+        <text font-size="11" x="-247.71274" y="55.91639" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_христос">
+            христос
+        </text>
+        <rect fill="#df89ff" x="-215.09837" width="21.128098" height="6.9716797"
+              y="-24.358208" opacity="0.0"/>
+        <text font-size="11" x="-204.53522" y="-19.148247" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_идея">
+            идея
+        </text>
+        <rect fill="#df89ff" x="-245.7043" width="51.624023" height="7.6904297"
+              y="-65.00242" opacity="0.0"/>
+        <text font-size="9" x="-219.64766" y="-58.9116" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_христианский">
+            христианский
+        </text>
+        <rect fill="#df89ff" x="-185.8826" width="27.530441" height="7.165039"
+              y="-125.211494" opacity="0.0"/>
+        <text font-size="11" x="-172.11827" y="-120.00153" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_время">
+            время
+        </text>
+        <rect fill="#73c000" x="-84.19774" width="31.128902" height="3.864583"
+              y="10.625278" opacity="0.0"/>
+        <text font-size="8" x="-68.58967" y="14.414341" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_значение">
+            значение
+        </text>
+        <rect fill="#00c4ff" x="-33.986904" width="53.648438" height="7.6904297"
+              y="-66.58816" opacity="0.0"/>
+        <text font-size="9" x="-6.874842" y="-60.497337" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_литературный">
+            литературный
+        </text>
+        <rect fill="#73c000" x="-358.75232" width="52.268555" height="6.1757812"
+              y="-7.3817883" opacity="0.0"/>
+        <text font-size="9" x="-332.42688" y="-1.290968" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_человеческий">
+            человеческий
+        </text>
+        <rect fill="#73c000" x="-277.27798" width="22.054672" height="3.8645859"
+              y="69.40794" opacity="0.0"/>
+        <text font-size="8" x="-266.2578" y="73.19701" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_истина">
+            истина
+        </text>
+        <rect fill="#73c000" x="-264.78195" width="18.330093" height="6.513672"
+              y="-35.54646" opacity="0.0"/>
+        <text font-size="10" x="-255.62584" y="-30.810131" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_вера">
+            вера
+        </text>
+        <rect fill="#73c000" x="-215.65215" width="26.678055" height="4.8274746"
+              y="10.899877" opacity="0.0"/>
+        <text font-size="10" x="-202.39694" y="15.63295" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_мысль">
+            мысль
+        </text>
+        <rect fill="#73c000" x="-284.1801" width="27.835938" height="3.8645859"
+              y="88.34449" opacity="0.0"/>
+        <text font-size="8" x="-270.158" y="92.13355" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_молитва">
+            молитва
+        </text>
+        <rect fill="#ff5584" x="-282.84326" width="24.701813" height="5.4895782"
+              y="186.18187" opacity="0.0"/>
+        <text font-size="8" x="-270.34067" y="191.59593" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_земной">
+            земной
+        </text>
+        <rect fill="#ff5584" x="-232.72163" width="32.61589" height="5.5507812"
+              y="183.0897" opacity="0.0"/>
+        <text font-size="8" x="-216.41434" y="188.56497" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_небесный">
+            небесный
+        </text>
+        <rect fill="#73c000" x="-184.99312" width="38.597168" height="4.3476562"
+              y="25.587082" opacity="0.0"/>
+        <text font-size="9" x="-165.68501" y="29.849777" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_евангелие">
+            евангелие
+        </text>
+        <rect fill="#df89ff" x="-94.84388" width="41.489586" height="10.421875"
+              y="28.219345" opacity="0.0"/>
+        <text font-size="16" x="-74.10039" y="35.79747" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_роман">
+            роман
+        </text>
+        <rect fill="#4c463e" x="6.5670037" width="82.30957" height="8.544922"
+              y="-78.10546" opacity="0.0"/>
+        <text font-size="10" x="47.712837" y="-71.33788" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_русский_литература">
+            русский литература
+        </text>
+        <rect fill="#00bd94" x="-47.74873" width="46.277344" height="5.2109375"
+              y="77.346664" opacity="0.0"/>
+        <text font-size="8" x="-24.718782" y="81.13573" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_преступление">
+            преступление
+        </text>
+        <rect fill="#00bd94" x="-28.569555" width="34.46875" height="3.8645859"
+              y="61.03318" opacity="0.0"/>
+        <text font-size="8" x="-11.443905" y="64.82224" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_наказание">
+            наказание
+        </text>
+        <rect fill="#73c000" x="-357.38147" width="26.143066" height="5.8623047"
+              y="88.4596" opacity="0.0"/>
+        <text font-size="9" x="-344.37146" y="92.7223" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_смерть">
+            смерть
+        </text>
+        <rect fill="#00c4ff" x="-107.48276" width="32.0026" height="5.2109375"
+              y="-120.90174" opacity="0.0"/>
+        <text font-size="8" x="-91.605156" y="-117.11268" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_искусство">
+            искусство
+        </text>
+        <rect fill="#df89ff" x="-203.83832" width="25.789062" height="5.796875"
+              y="-87.7583" opacity="0.0"/>
+        <text font-size="12" x="-190.94476" y="-82.07471" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_текст">
+            текст
+        </text>
+        <rect fill="#df89ff" x="-174.9957" width="23.216309" height="4.3447266"
+              y="76.225525" opacity="0.0"/>
+        <text font-size="9" x="-163.24911" y="80.48529" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_смысл">
+            смысл
+        </text>
+        <rect fill="#73c000" x="-387.78918" width="49.440094" height="5.5507803"
+              y="-19.035748" opacity="0.0"/>
+        <text font-size="8" x="-362.98776" y="-13.560488" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_божественный">
+            божественный
+        </text>
+        <rect fill="#df89ff" x="-218.97882" width="24.300781" height="3.8645859"
+              y="88.574455" opacity="0.0"/>
+        <text font-size="8" x="-206.70538" y="92.36352" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_символ">
+            символ
+        </text>
+        <rect fill="#00c4ff" x="-60.732224" width="17.720215" height="4.3476562"
+              y="-101.92352" opacity="0.0"/>
+        <text font-size="9" x="-51.857468" y="-97.66083" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_язык">
+            язык
+        </text>
+        <rect fill="#00c4ff" x="-134.75948" width="56.404297" height="7.8164062"
+              y="-89.257744" opacity="0.0"/>
+        <text font-size="12" x="-106.183304" y="-83.57415" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_литература">
+            литература
+        </text>
+        <rect fill="#df89ff" x="-152.18605" width="31.990555" height="4.8307266"
+              y="-33.517" opacity="0.0"/>
+        <text font-size="10" x="-136.41376" y="-28.780672" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_повесть">
+            повесть
+        </text>
+        <rect fill="#df89ff" x="-344.92752" width="54.170563" height="5.489582"
+              y="33.522003" opacity="0.0"/>
+        <text font-size="8" x="-317.8429" y="38.936066" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_положительный">
+            положительный
+        </text>
+        <rect fill="#df89ff" x="-314.67487" width="27.873047" height="5.8623047"
+              y="61.516525" opacity="0.0"/>
+        <text font-size="9" x="-300.8775" y="65.77922" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_рассказ">
+            рассказ
+        </text>
+        <rect fill="#4c463e" x="30.970884" width="74.53906" height="6.8359375"
+              y="-61.646976" opacity="0.0"/>
+        <text font-size="8" x="68.23325" y="-56.232914" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_исторический_поэтика">
+            исторический поэтика
+        </text>
+        <rect fill="#00c4ff" x="-208.49336" width="31.734375" height="5.2109375"
+              y="-115.31856" opacity="0.0"/>
+        <text font-size="8" x="-192.34688" y="-111.529495" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_традиция">
+            традиция
+        </text>
+        <rect fill="#df89ff" x="-150.1246" width="36.947754" height="7.6904297"
+              y="30.232784" opacity="0.0"/>
+        <text font-size="9" x="-131.36581" y="36.323605" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_духовный">
+            духовный
+        </text>
+        <rect fill="#00c4ff" x="-151.29114" width="48.111984" height="6.8359375"
+              y="-117.611404" opacity="0.0"/>
+        <text font-size="8" x="-127.235794" y="-112.19734" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_православный">
+            православный
+        </text>
+        <rect fill="#df89ff" x="-288.50095" width="29.421875" height="3.864582"
+              y="-62.60448" opacity="0.0"/>
+        <text font-size="8" x="-273.79782" y="-58.81542" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_читатель">
+            читатель
+        </text>
+        <rect fill="#4c463e" x="60.770847" width="44.923176" height="5.2109375"
+              y="-153.63094" opacity="0.0"/>
+        <text font-size="8" x="83.326836" y="-149.84187" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_христианство">
+            христианство
+        </text>
+        <rect fill="#00c4ff" x="8.0938225" width="21.515299" height="6.513672"
+              y="-96.02775" opacity="0.0"/>
+        <text font-size="10" x="18.931225" y="-91.29142" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_жанр">
+            жанр
+        </text>
+        <rect fill="#00c4ff" x="-8.565116" width="25.707031" height="3.8645859"
+              y="-120.79844" opacity="0.0"/>
+        <text font-size="8" x="4.2812386" y="-117.00938" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_поэтика">
+            поэтика
+        </text>
+        <rect fill="#df89ff" x="-135.13925" width="21.753914" height="6.817711"
+              y="-80.28364" opacity="0.0"/>
+        <text font-size="8" x="-124.12883" y="-74.8878" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_форма">
+            форма
+        </text>
+        <rect fill="#df89ff" x="-255.98175" width="33.96875" height="6.8359375"
+              y="-162.49857" opacity="0.0"/>
+        <text font-size="8" x="-238.87823" y="-157.0845" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_авторский">
+            авторский
+        </text>
+        <rect fill="#df89ff" x="-215.9983" width="31.104156" height="5.2109375"
+              y="-142.70021" opacity="0.0"/>
+        <text font-size="8" x="-200.22943" y="-138.91115" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_хронотоп">
+            хронотоп
+        </text>
+        <rect fill="#df89ff" x="-63.052692" width="10.932293" height="5.5507812"
+              y="54.52501" opacity="0.0"/>
+        <text font-size="8" x="-57.675087" y="60.00027" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_бес">
+            бес
+        </text>
+        <rect fill="#73c000" x="-312.32108" width="19.486969" height="5.0703125"
+              y="-20.11213" opacity="0.0"/>
+        <text font-size="8" x="-302.57825" y="-16.323067" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_идеал">
+            идеал
+        </text>
+        <rect fill="#df89ff" x="-38.59788" width="48.545574" height="6.8359375"
+              y="32.988884" opacity="0.0"/>
+        <text font-size="8" x="-14.325747" y="38.402946" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_главный_герой">
+            главный герой
+        </text>
+        <rect fill="#d3b3b0" x="-366.1421" width="20.924469" height="6.8971367"
+              y="-51.11989" opacity="0.0"/>
+        <text font-size="8" x="-355.54965" y="-45.644627" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_добро">
+            добро
+        </text>
+        <rect fill="#d3b3b0" x="-389.10977" width="11.03775" height="3.8645859"
+              y="-70.074776" opacity="0.0"/>
+        <text font-size="8" x="-383.56226" y="-66.28571" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_зло">
+            зло
+        </text>
+        <rect fill="#df89ff" x="-171.76442" width="44.95964" height="5.2109375"
+              y="-149.76169" opacity="0.0"/>
+        <text font-size="8" x="-149.4083" y="-145.97263" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_пространство">
+            пространство
+        </text>
+        <rect fill="#73c000" x="-220.45209" width="42.29297" height="5.2109375"
+              y="115.93745" opacity="0.0"/>
+        <text font-size="8" x="-199.41432" y="119.72651" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_воскресение">
+            воскресение
+        </text>
+        <rect fill="#df89ff" x="-75.90884" width="20.592445" height="6.817711"
+              y="68.19456" opacity="0.0"/>
+        <text font-size="8" x="-65.47264" y="73.59039" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_финал">
+            финал
+        </text>
+        <rect fill="#df89ff" x="-48.579517" width="23.682293" height="5.0703125"
+              y="18.60608" opacity="0.0"/>
+        <text font-size="8" x="-36.83277" y="22.395142" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_эпизод">
+            эпизод
+        </text>
+        <rect fill="#00c4ff" x="-142.45828" width="85.08594" height="6.8359375"
+              y="-137.72467" opacity="0.0"/>
+        <text font-size="8" x="-99.92247" y="-132.31061" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_классический_литература">
+            классический литература
+        </text>
+        <rect fill="#df89ff" x="-337.89282" width="29.791687" height="5.2109375"
+              y="22.766077" opacity="0.0"/>
+        <text font-size="8" x="-322.89346" y="26.55514" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_характер">
+            характер
+        </text>
+        <rect fill="#df89ff" x="-90.08914" width="18.868492" height="5.0703125"
+              y="52.622143" opacity="0.0"/>
+        <text font-size="8" x="-80.53836" y="56.411205" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_сцена">
+            сцена
+        </text>
+        <rect fill="#4c463e" x="16.045347" width="73.91276" height="6.8971405"
+              y="-137.9922" opacity="0.0"/>
+        <text font-size="8" x="52.82334" y="-132.51694" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_категория_соборность">
+            категория соборность
+        </text>
+        <rect fill="#4c463e" x="88.463554" width="64.92577" height="5.489586"
+              y="-89.48548" opacity="0.0"/>
+        <text font-size="8" x="120.76303" y="-84.07142" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_евангельский_текст">
+            евангельский текст
+        </text>
+        <rect fill="#4c463e" x="80.04411" width="87.82764" height="5.8623047"
+              y="-110.089676" opacity="0.0"/>
+        <text font-size="9" x="123.9572" y="-105.82698" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_цитата_реминисценция">
+            цитата реминисценция
+        </text>
+        <rect fill="#4c463e" x="53.266617" width="86.27197" height="5.8623047"
+              y="-125.4345" opacity="0.0"/>
+        <text font-size="9" x="96.261246" y="-121.17181" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_реминисценция_мотив">
+            реминисценция мотив
+        </text>
+        <rect fill="#4c463e" x="109.784355" width="44.02343" height="3.8645782"
+              y="-159.82703" opacity="0.0"/>
+        <text font-size="8" x="131.6268" y="-156.03796" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_мотив_сюжет">
+            мотив сюжет
+        </text>
+        <rect fill="#4c463e" x="145.23715" width="40.657547" height="5.2109375"
+              y="-142.30118" opacity="0.0"/>
+        <text font-size="8" x="165.57504" y="-138.51212" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_сюжет_жанр">
+            сюжет жанр
+        </text>
+        <rect fill="#4c463e" x="70.95945" width="21.770836" height="3.864583"
+              y="-12.616347" opacity="0.0"/>
+        <text font-size="8" x="81.68406" y="-8.827285" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_аспект">
+            аспект
+        </text>
+        <rect fill="#73c000" x="-411.67838" width="28.705719" height="5.0703125"
+              y="-30.101484" opacity="0.0"/>
+        <text font-size="8" x="-397.32617" y="-26.312422" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_комедия">
+            комедия
+        </text>
+        <rect fill="#73c000" x="-355.21353" width="11.579437" height="5.0703125"
+              y="10.6770935" opacity="0.0"/>
+        <text font-size="8" x="-349.30728" y="14.466156" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_ода">
+            ода
+        </text>
+        <rect fill="#c0c0c0" x="-54.94282" width="72.8112" height="6.8359375"
+              y="134.58992" opacity="0.0"/>
+        <text font-size="8" x="-18.537872" y="140.00398" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_пасхальность_русский">
+            пасхальность русский
+        </text>
+        <rect fill="#c0c0c0" x="-82.25724" width="69.529945" height="6.8359375"
+              y="156.94817" opacity="0.0"/>
+        <text font-size="8" x="-47.670654" y="162.36223" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_русский_словесность">
+            русский словесность
+        </text>
+        <rect fill="#c0c0c0" x="-16.389917" width="18.529947" height="3.8645782"
+              y="-185.20021" opacity="0.0"/>
+        <text font-size="8" x="-6.9732513" y="-181.41115" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_закон">
+            закон
+        </text>
+        <rect fill="#df89ff" x="-166.71657" width="28.242188" height="5.2109375"
+              y="122.33763" opacity="0.0"/>
+        <text font-size="8" x="-152.7081" y="126.12669" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_реализм">
+            реализм
+        </text>
+        <rect fill="#c0c0c0" x="9.796422" width="33.635418" height="6.7565155"
+              y="-168.75928" opacity="0.0"/>
+        <text font-size="8" x="26.517776" y="-163.28401" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_благодать">
+            благодать
+        </text>
+        <rect fill="#df89ff" x="-222.5588" width="21.332031" height="5.0703125"
+              y="-96.27872" opacity="0.0"/>
+        <text font-size="8" x="-211.89995" y="-92.489655" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_цитата">
+            цитата
+        </text>
+        <rect fill="#df89ff" x="-245.18864" width="11.2890625" height="5.15625"
+              y="-86.01483" opacity="0.0"/>
+        <text font-size="8" x="-239.5044" y="-82.28046" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_дух">
+            дух
+        </text>
+        <rect fill="#c0c0c0" x="-486.84177" width="44.123688" height="6.8971367"
+              y="10.235062" opacity="0.0"/>
+        <text font-size="8" x="-464.69855" y="15.710322" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_блудный_сын">
+            блудный сын
+        </text>
+        <rect fill="#c0c0c0" x="-424.0013" width="22.1875" height="5.2109375"
+              y="31.425613" opacity="0.0"/>
+        <text font-size="8" x="-412.91473" y="35.214676" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_притча">
+            притча
+        </text>
+        <rect fill="#c0c0c0" x="-83.59284" width="25.093746" height="5.2109375"
+              y="-180.0267" opacity="0.0"/>
+        <text font-size="8" x="-71.05313" y="-176.23764" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_красота">
+            красота
+        </text>
+        <rect fill="#ff8805" x="-367.33923" width="28.213531" height="6.8359375"
+              y="-116.6306" opacity="0.0"/>
+        <text font-size="8" x="-353.23312" y="-111.21654" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_научный">
+            научный
+        </text>
+        <rect fill="#ff8805" x="-392.89575" width="37.476562" height="6.8177032"
+              y="-147.57738" opacity="0.0"/>
+        <text font-size="8" x="-374.02402" y="-142.18155" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_фантастика">
+            фантастика
+        </text>
+        <rect fill="#ff8805" x="-438.89896" width="53.39322" height="6.8359375"
+              y="-123.30968" opacity="0.0"/>
+        <text font-size="8" x="-412.06238" y="-117.895615" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Calibri" class="id_фантастический">
+            фантастический
+        </text>
+    </g>
+</svg>
